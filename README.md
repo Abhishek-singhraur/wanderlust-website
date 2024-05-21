@@ -82,7 +82,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, please contact us at:
 
-- Email: your-email@example.com
+- Email: singhraurabhi@gmail.com
 - GitHub: [abhishek-singhraur](https://github.com/abhishek-singhraur)
 
 ---
